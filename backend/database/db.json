@@ -1,0 +1,226 @@
+{
+  "posts": [
+    {
+      "id": "53604dee-3f21-4439-98c1-71b9f196ab60",
+      "content": "After years of hard work, late nights, countless assignments, and unforgettable memories, I’m proud to say I’ve officially graduated! 💫\r\n\r\nThank you to my family, friends, and mentors who supported me every step of the way. I couldn't have done it without you.\r\n\r\nHere’s to new beginnings, bigger dreams, and the next exciting chapter! 🚀📚\r\n\r\n#GraduationDay #NewBeginnings #Grateful #ClassOf2021",
+      "image": "uploads/posts/image-1751458270256-748525125.jpg",
+      "postType": "image",
+      "author": {
+        "id": "62b2351d-895c-4de8-9c11-e1dc836e35db",
+        "name": "Mijanur Rahman",
+        "avatar": "uploads/avatar/avatar-1751365754285-979581108.jpg"
+      },
+      "comments": [
+        {
+          "id": "823b7ed5-570b-4d6d-be4d-4bbce4fa3bbb",
+          "comment": "Take love",
+          "createdAt": "2025-07-02T12:21:15.237Z",
+          "author": {
+            "id": "79e70a1d-9424-4c2d-ba15-231ce47f1432",
+            "name": "Partha Kumar Bagchi",
+            "avatar": "uploads/avatar/avatar-1751458594105-64814971.jpg"
+          }
+        },
+        {
+          "id": "a4a21cd2-a328-41bb-a5ef-81f762567e3d",
+          "comment": "Great achieve",
+          "createdAt": "2025-07-02T12:34:27.572Z",
+          "author": {
+            "id": "bad5313f-4cc1-4645-9b43-34de90f2156e",
+            "name": "Amit Roy",
+            "avatar": "uploads/avatar/avatar-1751459220727-632450235.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "79e70a1d-9424-4c2d-ba15-231ce47f1432"
+      ],
+      "createAt": "2025-07-02T12:11:10.263Z"
+    },
+    {
+      "id": "b5c77252-3dbc-4367-9aba-a04ff1c17565",
+      "content": "Biking...",
+      "image": "uploads/posts/image-1751458310694-929237031.jpg",
+      "postType": "image",
+      "author": {
+        "id": "62b2351d-895c-4de8-9c11-e1dc836e35db",
+        "name": "Mijanur Rahman",
+        "avatar": "uploads/avatar/avatar-1751365754285-979581108.jpg"
+      },
+      "comments": [
+        {
+          "id": "d5c8c705-95fa-47bc-8218-4a5d02b05059",
+          "comment": "ki re",
+          "createdAt": "2025-07-06T16:09:32.097Z",
+          "author": {
+            "id": "42ed467e-604b-402f-99f5-2b917f43fba9",
+            "name": "Partha Bagchi",
+            "avatar": null
+          }
+        }
+      ],
+      "likes": [
+        "79e70a1d-9424-4c2d-ba15-231ce47f1432",
+        "42ed467e-604b-402f-99f5-2b917f43fba9"
+      ],
+      "createAt": "2025-07-02T12:11:50.713Z"
+    },
+    {
+      "id": "5e3b3e9c-cde2-484c-8d43-36bad41a10e1",
+      "content": "Trying to grab everything in her hand ✊♥️\r\n\r\nMaa-Sha-Allah",
+      "image": "uploads/posts/image-1751458383145-532001825.jpg",
+      "postType": "image",
+      "author": {
+        "id": "62b2351d-895c-4de8-9c11-e1dc836e35db",
+        "name": "Mijanur Rahman",
+        "avatar": "uploads/avatar/avatar-1751365754285-979581108.jpg"
+      },
+      "comments": [
+        {
+          "id": "9e355fcd-bea0-499e-b5e4-0e527c97bb75",
+          "comment": "Nice capture",
+          "createdAt": "2025-07-02T12:17:45.324Z",
+          "author": {
+            "id": "62b2351d-895c-4de8-9c11-e1dc836e35db",
+            "name": "Mijanur Rahman",
+            "avatar": "uploads/avatar/avatar-1751365754285-979581108.jpg"
+          }
+        },
+        {
+          "id": "73d1a0d2-0d11-47bd-a8fc-8dd31052b3de",
+          "comment": "Beautiful",
+          "createdAt": "2025-07-02T12:18:48.279Z",
+          "author": {
+            "id": "79e70a1d-9424-4c2d-ba15-231ce47f1432",
+            "name": "Partha Kumar Bagchi",
+            "avatar": "uploads/avatar/avatar-1751458594105-64814971.jpg"
+          }
+        }
+      ],
+      "likes": [
+        "62b2351d-895c-4de8-9c11-e1dc836e35db",
+        "79e70a1d-9424-4c2d-ba15-231ce47f1432"
+      ],
+      "createAt": "2025-07-02T12:13:03.149Z"
+    },
+    {
+      "id": "caa92468-0baa-465d-9d48-067acf1b7df8",
+      "content": "What a weather!",
+      "image": "uploads/posts/image-1751458807501-96707697.jpg",
+      "postType": "image",
+      "author": {
+        "id": "79e70a1d-9424-4c2d-ba15-231ce47f1432",
+        "name": "Partha Kumar Bagchi",
+        "avatar": "uploads/avatar/avatar-1751458594105-64814971.jpg"
+      },
+      "comments": [
+        {
+          "id": "ea5a3f37-d2d6-419b-9bab-db4e7eb6e859",
+          "comment": "Joss!",
+          "createdAt": "2025-07-02T12:23:00.768Z",
+          "author": {
+            "id": "62b2351d-895c-4de8-9c11-e1dc836e35db",
+            "name": "Mijanur Rahman",
+            "avatar": "uploads/avatar/avatar-1751365754285-979581108.jpg"
+          }
+        }
+      ],
+      "likes": [],
+      "createAt": "2025-07-02T12:20:07.505Z"
+    },
+    {
+      "id": "f6e422bf-7b12-4361-91c6-94b67be24350",
+      "content": "Krishnochura",
+      "image": "uploads/posts/image-1751458849747-698809389.jpg",
+      "postType": "image",
+      "author": {
+        "id": "79e70a1d-9424-4c2d-ba15-231ce47f1432",
+        "name": "Partha Kumar Bagchi",
+        "avatar": "uploads/avatar/avatar-1751458594105-64814971.jpg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2025-07-02T12:20:49.752Z"
+    },
+    {
+      "id": "841b5eb1-9029-4b42-abb1-8c4c5d2865d6",
+      "content": "Today marks the end of one chapter and the beginning of another. I’m beyond proud to share that I’ve officially graduated. It’s been a journey full of challenges, growth, late-night studying, and unforgettable moments. I’m so grateful to my family, friends, and teachers who supported and encouraged me through it all. This achievement isn't just mine—it's a reflection of all the love and belief I’ve received along the way. As I step into the next phase of life, I carry with me the lessons, memories, and determination that got me here. Here’s to new beginnings and endless possibilities.",
+      "image": null,
+      "postType": "text",
+      "author": {
+        "id": "79e70a1d-9424-4c2d-ba15-231ce47f1432",
+        "name": "Partha Kumar Bagchi",
+        "avatar": "uploads/avatar/avatar-1751458594105-64814971.jpg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2025-07-02T12:22:09.586Z"
+    },
+    {
+      "id": "05108962-6b04-446e-b771-94b4aa012b02",
+      "content": "What's up guys?",
+      "image": "uploads/posts/image-1751459637355-332439022.jpg",
+      "postType": "image",
+      "author": {
+        "id": "bad5313f-4cc1-4645-9b43-34de90f2156e",
+        "name": "Amit Roy",
+        "avatar": "uploads/avatar/avatar-1751459220727-632450235.jpg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2025-07-02T12:33:57.357Z"
+    },
+    {
+      "id": "0a52f912-4b87-4986-b73a-43182ab9e9dc",
+      "content": "Travelling...",
+      "image": "uploads/posts/image-1751459703330-91905548.jpg",
+      "postType": "image",
+      "author": {
+        "id": "bad5313f-4cc1-4645-9b43-34de90f2156e",
+        "name": "Amit Roy",
+        "avatar": "uploads/avatar/avatar-1751459220727-632450235.jpg"
+      },
+      "comments": [],
+      "likes": [],
+      "createAt": "2025-07-02T12:35:03.335Z"
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "id": "62b2351d-895c-4de8-9c11-e1dc836e35db",
+      "password": "$2b$08$QLigBwbfiWs4TUzm1Ew.q.p8yTvh7Zcygl0YykCVW9p7vzkZz.6X.",
+      "firstName": "Mijanur",
+      "lastName": "Rahman",
+      "avatar": "uploads/avatar/avatar-1751365754285-979581108.jpg",
+      "email": "mijanur5rahman@gmail.com",
+      "bio": "I'm a Frontend Developer specializing in React.js with a strong foundation in JavaScript, HTML, CSS, and REST APIs.\nBuilt multiple responsive projects using modern front-end tools like Redux, Bootstrap, Tailwind CSS. Passionate about\nwriting clean, efficient code and continuously learning new technologies."
+    },
+    {
+      "id": "79e70a1d-9424-4c2d-ba15-231ce47f1432",
+      "password": "$2b$08$NGeCkcRH5VTwzR/yfBv/3OywFa.dnSQssd6JKH1Se8.2XdhWbCWJa",
+      "firstName": "Partha",
+      "lastName": "Kumar Bagchi",
+      "avatar": "uploads/avatar/avatar-1751458594105-64814971.jpg",
+      "email": "partha@gmail.com",
+      "bio": "যদিও বিবর্তনের পথ ধরে হাঁটছি একলা, শূণ্যতায় কয়েক শতাব্দী ধরে, তবুও অবিবর্তিতই রয়ে গেলাম রিক্ত আমি..."
+    },
+    {
+      "id": "bad5313f-4cc1-4645-9b43-34de90f2156e",
+      "password": "$2b$08$w5XzPVGLsCLK.O2c9hg8VOwgIlppeGATv63XW50X0oXm2wdvcH596",
+      "firstName": "Amit",
+      "lastName": "Roy",
+      "avatar": "uploads/avatar/avatar-1751459220727-632450235.jpg",
+      "email": "amit@gmail.com",
+      "bio": "I'm Amit Roy."
+    },
+    {
+      "id": "42ed467e-604b-402f-99f5-2b917f43fba9",
+      "password": "$2b$08$TygjIJVJLBdUAwJ1JVjpV.S7bJguj1ixcqtVhp8Ofmu8B0KftbCTO",
+      "firstName": "Partha",
+      "lastName": "Bagchi",
+      "avatar": "uploads/avatar/avatar-1751818221601-79080232.jpg",
+      "email": "parthabagchi249@gmail.com"
+    }
+  ]
+}
