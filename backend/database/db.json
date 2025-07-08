@@ -181,7 +181,9 @@
         "avatar": "uploads/avatar/avatar-1751459220727-632450235.jpg"
       },
       "comments": [],
-      "likes": [],
+      "likes": [
+        "62b2351d-895c-4de8-9c11-e1dc836e35db"
+      ],
       "createAt": "2025-07-02T12:35:03.335Z"
     }
   ],
