@@ -32,10 +32,15 @@ Modern UI/UX
 2. Clean layout inspired by Facebook’s design system.
 
 Tech Stack used
+
 Frontend: React.js, Redux Toolkit, Tailwind CSS
+
 Backend: JSON Server
+
 HTTP Client: Axios
+
 Authentication: JWT web token
+
 State Management: Redux
 
 Purpose
