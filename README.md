@@ -33,13 +33,9 @@ Modern UI/UX
 
 Tech Stack used
 Frontend: React.js, Redux Toolkit, Tailwind CSS
-
 Backend: JSON Server
-
 HTTP Client: Axios
-
 Authentication: JWT web token
-
 State Management: Redux
 
 Purpose
