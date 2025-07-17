@@ -1,3 +1,15 @@
+How to run the project in your local matchine:
+
+Clone the repository
+Backend: 
+1. Open backend folder & install npm by "npm install"
+2. Run backend by "npm run dev" (Don't close it)
+
+Frontend:
+1. Open backend folder & install npm by "npm install"
+2. Run project by "npm run dev"
+
+
 🧾 Project Name: Facehook
 Facehook is a social media platform clone inspired by Facebook, developed to replicate core social networking functionalities. It allows users to connect, interact, and share their experiences through posts, likes, and comments.
 
